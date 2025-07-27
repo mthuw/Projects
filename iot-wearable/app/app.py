@@ -3,7 +3,7 @@ import json
 import paho.mqtt.client as mqtt
 import mysql.connector
 from pymongo import MongoClient
-from py2neo import Graph
+from py2neo import GraphDatabase
 
 from flask import Flask
 app = Flask(__name__)
