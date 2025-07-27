@@ -1,0 +1,15 @@
+# Docker-related files
+Dockerfile.*
+*.log
+*.pid
+*.sock
+
+# Docker volumes and containers
+volumes/
+data/
+tmp/
+.vscode/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
