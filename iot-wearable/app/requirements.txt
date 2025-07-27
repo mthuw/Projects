@@ -1,0 +1,5 @@
+paho-mqtt
+mysql-connector-python
+pymongo
+py2neo
+flask
